@@ -1,2 +1,2 @@
 # Path_Percolation_with_Path_Ensemble
-Code and Data
+Code used in the paper.
